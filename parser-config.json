@@ -1,0 +1,12 @@
+[
+  {
+    "language_name": "indonesia",
+    "csv_path": "raw/indonesia.csv",
+    "result_path": "result/indonesia.json"
+  },
+  {
+    "language_name": "arabic",
+    "csv_path": "raw/arabic.csv",
+    "result_path": "result/arabic.json"
+  }
+]
